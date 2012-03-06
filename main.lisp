@@ -1,4 +1,4 @@
-(in-package #:cl-user)
+(in-package #:easy-backquote-nesting)
 
 ;;;; I started writing a "proper" easy-backquote-nesting.lisp but it's
 ;;;; taking too long and I'm tired and I feel the pressure to release
