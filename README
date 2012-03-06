@@ -1,7 +1,11 @@
 Hosted at: http://github.com/Hexstream/easy-backquote-nesting
 
 
-If you're already an experienced lisper and know what backquote nesting is and why you'd want to use it, by reading easy-backquote-nesting.lisp you should be able to gain a practical understanding of how to read and write nested backquotes in about 30 minutes.
+If you're already an experienced lisper and know what backquote
+nesting is and why you'd want to use it, by reading
+easy-backquote-nesting.lisp you should be able to gain a practical
+understanding of how to read and write nested backquotes in about 30
+minutes.
 
 
 This library is in the Public Domain.
